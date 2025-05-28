@@ -5,7 +5,7 @@ import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
 import { Textarea } from "@/components/ui/textarea";
 import { Save, Trash2 } from "lucide-react";
-import type { Note } from "@/store";
+import type { Note } from "@/types";
 import {
   Dialog,
   DialogContent,
